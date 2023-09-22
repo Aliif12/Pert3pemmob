@@ -1,0 +1,48 @@
+step 1. fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+
+step 2. fun main() {
+    println("I'm")
+    println("Learning")
+    println("Kotlin")
+}
+
+step 3. fun main() {
+    println("Tuesday")
+    println("Thursday")
+    println("Wednesday")
+    println("Friday")
+    println("Monday")
+}
+
+step 4. 
+fun main() {
+    println("Monday")
+    println("Tuesday")
+    println("Wednesday")
+    println("Thursday")
+    println("Friday")
+}
+
+step 5. fun main() {
+    println("Tomorrow is rainy")
+}
+
+step 6 fun main() {
+    println("There is a chance of snow")
+}
+
+step 7. 
+fun main() {
+    println("Cloudy") 
+    println("Partly Cloudy") 
+    println("Windy")
+}
+
+step 8.
+fun main() {
+    println("How's the weather today?")
+}
